@@ -1,3 +1,7 @@
+<?php
+require_once "directories.php";
+?>
+
 <!doctype html>
 <html>
 <head>
